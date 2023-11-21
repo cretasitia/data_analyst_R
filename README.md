@@ -1,3 +1,2 @@
-# data_analyst_R
+# Example of README.md
 Data Analyst - R programming language
-ALLAGI
